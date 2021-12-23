@@ -6,3 +6,4 @@ Charts that show the outcomes of the campaigns
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/93800235/146652853-e07f0e3f-be63-40d6-820b-d72b22f33741.png)
 ### Recommendations
 The best time to launch campaigns is in May, and avoid launching campaigns in December. Successful campaigns had a mean goal of about $5k. Louise should revise her goal from $10k to around $5k.
+![](/Parent_Category_Outcomes.png)
