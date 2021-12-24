@@ -19,7 +19,7 @@ May is the month with the most total launched campaigns with 166 campaigns launc
 
 ### Analysis of Outcomes Based on Goals
 
-Using a pivot table and chart, I used the Subcategory "Plays" and twelve unique funding goal ranges as filters I was able to determine the number of successful, failed, and canceled campaigns. Along with the respective percentages. In total, 1,043 Plays were examined. The majority of plays (51.1%) had a goal between $1,000 and $4,999. Overall, Plays averaged a percent successful rate of 46% and a percent failure rate of 54%. There were no canceled campaigns across any of the goal ranges. 
+I created a table using the CountIfs function to sort out the number of campaigns that succeeded, failed, and were canceled. I used the Subcategory "Plays" and twelve unique funding goal ranges as filters I was able to determine the number of successful, failed, and canceled campaigns. Along with the respective percentages. In total, 1,043 Plays were examined. The majority of plays (51.1%) had a goal between $1,000 and $4,999. Overall, Plays averaged a percent successful rate of 46% and a percent failure rate of 54%. There were no canceled campaigns across any of the goal ranges. 
 
 Plays had the highest rate of success (76%) when they had a goal less than $1,000. Plays with a goal range $1,000 to $4,999 had a similar rate of success at 73%. 
 
@@ -31,7 +31,10 @@ Plays with a goal in the rage of $15,000 to $19,000 had a success rate of 50% an
 
 ### Challenges and Difficulties Encountered
 
-One challenge that arose while creating the table for Outcomes Based on Goals was the CountIfs formula. As I copied the formula to all the cells, I initially updated the wrong part of the formula so some cells were no longer filtered for "plays" but rather the outcome. This returned the wrong value, however it was fixed after I double checked my formulas. 
+One challenge that arose while creating the table for Outcomes Based on Goals was the CountIfs formula. As I copied the formula to all the cells, I initially updated the wrong part of the formula so some cells were no longer filtered for "plays" but rather the outcome. This returned the wrong value, however it was fixed after I double checked my formulas. Potential difficulties that could have been encountered would have been:
+* Being unable to add the correct filters to the pivot table for Theater Outcomes based on Launch Date
+* Being not able to sort the Launch Date table columns in descending order
+* Not being able to extract the Year from the Date Created Conversion column
 
 ## Results
 
