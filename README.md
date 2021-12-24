@@ -10,10 +10,11 @@ The scope of this project is to analyze Kickstarter data for Louise, and provide
 
 ### Analysis of Outcomes Based on Launch Date
 
+Using the Parent Category "Theater" and Years as filters I was able to determine the number of successful, failed, and canceled campaigns based on the month they were launched.
 
 ### Analysis of Outcomes Based on Goals
 
-Using the subcategory "Plays" and twelve unique funding goal ranges as filters I was able to determine the number of successful, failed, and canceled campaigns. Along with the respective percentages. In total, 1,043 Plays were examined. The majority of plays (51.1%) had a goal between $1,000 and $4,999. Overall, Plays averaged a percent successful rate of 46% and a percent failure rate of 54%. There were no canceled campaigns across any of the goal ranges. 
+Using the Subcategory "Plays" and twelve unique funding goal ranges as filters I was able to determine the number of successful, failed, and canceled campaigns. Along with the respective percentages. In total, 1,043 Plays were examined. The majority of plays (51.1%) had a goal between $1,000 and $4,999. Overall, Plays averaged a percent successful rate of 46% and a percent failure rate of 54%. There were no canceled campaigns across any of the goal ranges. 
 
 Plays had the highest rate of success (76%) when they had a goal of less than $1,000. Plays with a goal range $1,000 to $4,999 had a similar rate of success at 73%. 
 
