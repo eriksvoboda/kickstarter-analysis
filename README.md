@@ -44,6 +44,8 @@ One conclusion that can be drawn is that May is the most optimal month to launch
 
 - What can you conclude about the Outcomes based on Goals?
 
+Based on the data we can conclude that Plays are more successful when the goal is below $5,000. The optimal range is less than $1,000, but can be exteneded to include a range up to $4,999. Since the percent of successful campaigns is very close. 
+
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
