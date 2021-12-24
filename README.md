@@ -6,15 +6,14 @@ Louise is interested in fundraising money for a future play she would like to cr
 ### Purpose
 The scope of this project is to analyze Kickstarter data for Louise, and provide her with an evaluation of the data so she can understand the most optimal time to launch a campaign and funding goal.
 
-
-
-![](/Resources/Theater_Outcomes_vs_Launch.png)
-
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
 Using the Parent Category "Theater" and Years as filters I was able to determine the number of successful, failed, and canceled campaigns based on the month they were launched.
+
+
+![](/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
