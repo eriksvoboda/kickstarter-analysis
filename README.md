@@ -12,7 +12,7 @@ The scope of this project is to analyze Kickstarter data for Louise, and provide
 
 Using the Parent Category "Theater" and Years as filters I was able to determine the number of successful, failed, and canceled campaigns based on the month they were launched. A total of 1,369 campaigns fall under the specified filters. The majority of the campaigns were successful with 839 (61.3%) successful campaigns, 493 (36%) failed campaigns, and 37 (2.7%) canceled campaigns. 
 
-May is the month with the most total launched campaigns with 166 campaigns launched. It is also the month with the most succcessful campaigns with 111 being successful. Month over month, from May to September there is a negative trend of successful campaigns.
+May is the month with the most total launched campaigns with 166 campaigns launched. It is also the month with the most succcessful campaigns with 111 being successful. Month over month, from May to September there is a negative trend of successful campaigns. The number of successful campaigns decreases at an average of 13 campaigns from May to September. However the number of failed and canceled campaigns remains consistent averaging 46 and 5 respectfully. July actually sees a decrease in canceled campaigns compared to the average of this timeframe with only 1 campaign being canceled. Overall the total of launched campaigns decreases from May to September which appears to be the main driver of the reduction of successful campaigns. Rather than the reduction being driven by an increase in failed or canceled campaigns. 
 
 
 ![](/Resources/Theater_Outcomes_vs_Launch.png)
