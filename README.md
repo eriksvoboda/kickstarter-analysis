@@ -40,6 +40,8 @@ One challenge that arose while creating the table for Outcomes Based on Goals wa
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+One conclusion that can be drawn is that May is the most optimal month to launch a campaign and December is the least optimal month to launch a campaign. 
+
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
