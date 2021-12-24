@@ -15,9 +15,11 @@ The scope of this project is to analyze Kickstarter data for Louise, and provide
 
 Using the subcategory "Plays" and twelve unique funding goal ranges as filters I was able to determine the number of successful, failed, and canceled campaigns. Along with the respective percentages. In total, 1,043 Plays were examined. The majority of plays (51.1%) had a goal between $1,000 and $4,999. Overall, Plays averaged a percent successful rate of 46% and a percent failure rate of 54%. There were no canceled campaigns across any of the goal ranges. 
 
-Plays had the highest rate of success, 76%, when they had a goal of less than $1,000. Plays with a goal between $1,000 and $4,999 had a similar rate of success at 73%. 
+Plays had the highest rate of success (76%) when they had a goal of less than $1,000. Plays with a goal range $1,000 to $4,999 had a similar rate of success at 73%. 
 
-Plays with a goal between $45,000 and $49,000 had the highest rate of failure. Followed by Plays with a goal greater than $50,000 and goal between $25,000 and $29,000. Plays had an equal rate of success and failure when their goal was between $15,000 and $19,000. 
+Plays with a goal range $45,000 to $49,000 had the highest rate of failure (100%). Followed by Plays with a goal greater than $50,000 (83%) and goal range $25,000 to $29,000 (80%). 
+
+Plays with a goal in the rage of $15,000 to $19,000 had a success rate of 50% and a failure rate of 50%. 
 
 Plays with goals between the ranges of $35,000 - $39,000 and $40,000 - $44,999 had the same success rate (67%) and failure rate (33%).
 
