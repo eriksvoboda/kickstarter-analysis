@@ -48,4 +48,14 @@ Based on the data we can conclude that Plays are more successful when the goal i
 
 - What are some limitations of this dataset?
 
+By looking at Outcome by Goal and Outcome by Launch Date separately we don't have a full picture of the outcomes. We know that May has the most successful launched campaigns however we can't determine why they're successful just by looking at the month launched. Similarly by only looking at the Outcomes by Goal we can determine the optimal goal range for a Play, but we don't know what other factors are at play. For example Country, are some countries more likely to have a successful campaign at a higher goal? Also since we already know time of year has a large impact on success rate, we don't know the relationship between Month and Goal specifically. Without looking at these variables together we have to make the assumption that the campaigns with success in our Goal data likely were launched in May. Also just by looking at these two charts we don't know the duration of the campaigns and durations's affect on campaign outcome.  
+
 - What are some other possible tables and/or graphs that we could create?
+
+We could create tables and graphs that show the relationship between:
+* Month Launched and Funding Goal
+* Duration of campaign and Month Launched
+* Duration of campaign and Funding Goal
+* Average Donations and Month Launched
+* Number of Backers and Goal
+* Number of Backers and Month Launched
