@@ -10,7 +10,7 @@ The scope of this project is to analyze Kickstarter data for Louise, and provide
 
 ### Analysis of Outcomes Based on Launch Date
 
-Using the Parent Category "Theater" and Years as filters I was able to determine the number of successful, failed, and canceled campaigns based on the month they were launched. A total of 1,369 campaigns fall under the specified filters. The majority of the campaigns were successful with 839 (61.3%) successful campaigns, 493 (36%) failed campaigns, and 37 (2.7%) canceled campaigns. 
+Using a pivot table and chart used the Parent Category "Theater" and Years as filters I was able to determine the number of successful, failed, and canceled campaigns based on the month they were launched. A total of 1,369 campaigns fall under the specified filters. The majority of the campaigns were successful with 839 (61.3%) successful campaigns, 493 (36%) failed campaigns, and 37 (2.7%) canceled campaigns. 
 
 May is the month with the most total launched campaigns with 166 campaigns launched. It is also the month with the most succcessful campaigns with 111 being successful. Month over month, from May to September there is a negative trend of successful campaigns. The number of successful campaigns decreases at an average of 13 campaigns from May to September. However the number of failed and canceled campaigns remains consistent averaging 46 and 5 respectfully. July actually sees a decrease in canceled campaigns compared to the average of this timeframe with only 1 campaign being canceled. Overall the total of launched campaigns decreases from May to September which appears to be the main driver of the reduction of successful campaigns. Rather than the reduction being driven by an increase in failed or canceled campaigns. 
 
@@ -19,7 +19,7 @@ May is the month with the most total launched campaigns with 166 campaigns launc
 
 ### Analysis of Outcomes Based on Goals
 
-Using the Subcategory "Plays" and twelve unique funding goal ranges as filters I was able to determine the number of successful, failed, and canceled campaigns. Along with the respective percentages. In total, 1,043 Plays were examined. The majority of plays (51.1%) had a goal between $1,000 and $4,999. Overall, Plays averaged a percent successful rate of 46% and a percent failure rate of 54%. There were no canceled campaigns across any of the goal ranges. 
+Using a pivot table and chart, I used the Subcategory "Plays" and twelve unique funding goal ranges as filters I was able to determine the number of successful, failed, and canceled campaigns. Along with the respective percentages. In total, 1,043 Plays were examined. The majority of plays (51.1%) had a goal between $1,000 and $4,999. Overall, Plays averaged a percent successful rate of 46% and a percent failure rate of 54%. There were no canceled campaigns across any of the goal ranges. 
 
 Plays had the highest rate of success (76%) when they had a goal less than $1,000. Plays with a goal range $1,000 to $4,999 had a similar rate of success at 73%. 
 
