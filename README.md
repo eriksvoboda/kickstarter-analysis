@@ -59,3 +59,5 @@ We could create tables and graphs that show the relationship between:
 * Average Donations and Month Launched
 * Number of Backers and Goal
 * Number of Backers and Month Launched
+
+By creating more tables and graphs we can get a deeper understanding of the data and see how the different metrics correlate to another. 
